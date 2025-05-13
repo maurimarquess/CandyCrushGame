@@ -1,0 +1,6 @@
+﻿  Joc.cpp
+C:\Users\mauri\source\repos\MP 2a entrega\0. C++ Code\Logic Game\Joc.cpp(233,179): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\mauri\source\repos\MP 2a entrega\0. C++ Code\Logic Game\Joc.cpp(233,168): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  main.cpp
+  Generando código...
+  MP_Practica.vcxproj -> C:\Users\mauri\source\repos\MP 2a entrega\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
