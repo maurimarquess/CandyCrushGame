@@ -1,1 +1,0 @@
-Adjuntem la carpeta de C++ Code sencera ja que tambe hem modificat alguns arxius de la llibreria grafica, i la carpeta de resource ja que hem canviat els grafics del projecte.
